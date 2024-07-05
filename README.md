@@ -1,5 +1,5 @@
 # Pokhara University Website Scraper
-# DEMO -https://pranav952.github.io/PokharaUniversityClone-WebScraping/
+# DEMO :https://pranav952.github.io/PokharaUniversityClone-WebScraping/
 This project is a web scraper designed to fetch and parse the HTML content of the Pokhara University (PU) website using Python's `requests` and `BeautifulSoup` libraries.
 
 ## Features
